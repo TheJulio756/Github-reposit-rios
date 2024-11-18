@@ -1,0 +1,36 @@
+img{
+    width: 25%;
+}
+ul{
+    text-align: center;
+    list-style-type: none;
+}
+a{
+    font-family: Verdana;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: green;
+    color: white;
+    border: 1px black;
+}
+a:hover{
+    background-color: blue;
+}
+p{
+    text-align: justify;
+    font-family: Verdana;
+    text-indent: 5%;
+}
+h2{
+    font-family: Verdana;
+    font-size: 30px;
+    color: white;
+    background-color: green;
+    text-align: center;
+}
+h3{
+    font-family: Verdana;
+    font-size: 25px;
+    color: green;
+    border-bottom: 2px black solid;
+}
